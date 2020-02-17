@@ -1,1 +1,1 @@
-alert("Bem vindos ao melhor site do mundo rapaziada vcs sao d+");
+alert("Bem vindos ao melhor site do universo rapaziada vcs sao d+");
